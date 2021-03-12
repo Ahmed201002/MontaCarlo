@@ -12,6 +12,11 @@ git commit -m "comments"
 
 5- importing files to your pc : git clone "Link of your Repo "
 
+6- ob tain the last updates: git pull origin master
+7- create the new branch :  git checkout -b  NameOfNewBranch
+8-Query about the branches in my github :  git branch 
+
+
 
 
 
