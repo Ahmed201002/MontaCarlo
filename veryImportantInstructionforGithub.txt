@@ -1,0 +1,16 @@
+To upload file on the github
+
+1- initialize your folder to work with git : git init
+
+2- prepare it with the following commands : git add + NameOfFile  oder gid add * (for all files) 
+
+git commit -m "comments"
+
+
+3- connect with your repo. : git remote add origin "httpLink or SSH"
+
+4- pushing it to the server: git push -u origin master
+
+
+
+
