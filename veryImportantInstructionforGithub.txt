@@ -15,6 +15,7 @@ git commit -m "comments"
 6- ob tain the last updates: git pull origin master
 7- create the new branch :  git checkout -b  NameOfNewBranch
 8-Query about the branches in my github :  git branch 
+9-  to merge the file : git merge NameOfNewBranch
 
 
 
