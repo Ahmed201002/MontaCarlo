@@ -6,10 +6,12 @@ To upload file on the github
 
 git commit -m "comments"
 
-
 3- connect with your repo. : git remote add origin "httpLink or SSH"
 
 4- pushing it to the server: git push -u origin master
+
+5- importing files to your pc : git clone "Link of your Repo "
+
 
 
 
